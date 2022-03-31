@@ -1,0 +1,18 @@
+.Navbar{
+    background-color: transparent;
+}
+
+ul>li{
+    list-style: none;
+    float: right;
+    
+
+}
+.home{
+    margin-top: -6rem;
+    margin-right: 5rem;
+}
+.unit{
+    margin-top: -6rem;
+    margin-right: 2rem  ;
+}
